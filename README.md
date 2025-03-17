@@ -13,7 +13,7 @@ Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer a
 
 CM)CTA - Certified Master Cyber Threat Analyst
 
-C)CSA & C3SA - Certified Cyber Security Analyst
+CySA+, C)CSA & C3SA - Certified Cyber Security Analyst
 
 CCDA - Certified Cyber Defense Analyst
 
@@ -66,7 +66,7 @@ CCE - Certified Cybersecurity Expert
 CCSS - Certified Cyber Security Specialist
 
 
-Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
 
 
 Accredited by ANAB under ISO/IEC 17024.
