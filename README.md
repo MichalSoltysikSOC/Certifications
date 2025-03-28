@@ -51,6 +51,8 @@ RvBCWP - Red vs Blue Cyber Warfare Practitioner
 
 CM)IPS - Certified Master Intrusion Prevention Specialist
 
+eCTHP - eLearnSecurity Certified Threat Hunting Professional
+
 C)TIA - Certified Threat Intelligence Analyst
 
 CIoTSP - Certified Internet of Things Security Practitioner
@@ -66,7 +68,7 @@ CCE - Certified Cybersecurity Expert
 CCSS - Certified Cyber Security Specialist
 
 
-Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
 
 
 Accredited by ANAB under ISO/IEC 17024.
