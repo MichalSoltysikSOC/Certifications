@@ -63,12 +63,14 @@ CNSP - Certified Network Security Practitioner
 
 CNSE - Certified Network Security Engineer
 
+CCC - Certified Cybersecurity Consultant
+
 CCE - Certified Cybersecurity Expert
 
 CCSS - Certified Cyber Security Specialist
 
 
-Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 
 Accredited by ANAB under ISO/IEC 17024.
