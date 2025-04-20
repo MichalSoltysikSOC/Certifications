@@ -29,6 +29,8 @@ C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
 
+eCDFP - eLearnSecurity Certified Digital Forensics Professional
+
 ISO/IEC 27037:2012 - Lead Implementer
 
 WCNA - Wireshark Certified Network Analyst
