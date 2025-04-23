@@ -10,6 +10,7 @@ To date, he has identified 254 protocols in the IT, OT and IoT areas used for cy
 
 Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer and SOC Trainer.
 
+<br>
 
 CM)CTA - Certified Master Cyber Threat Analyst
 
@@ -71,9 +72,11 @@ CCE - Certified Cybersecurity Expert
 
 CCSS - Certified Cyber Security Specialist
 
+<br>
 
 Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
+<br>
 
 Accredited by ANAB under ISO/IEC 17024.
 
@@ -91,6 +94,7 @@ Approved on the FBI Cyber Security Certification Requirement list (Tier 1-3).
 
 Recognized by NCSC - part of GCHQ (UK's intelligence, security, and cyber agency).
 
+<br>
 
 Contact:
 
