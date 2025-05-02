@@ -18,6 +18,8 @@ CySA+, C)CSA & C3SA - Certified Cyber Security Analyst
 
 CCDA - Certified Cyber Defense Analyst
 
+HTB CDSA - Hack The Box Certified Defensive Security Analyst
+
 C|SA - Certified SOC Analyst
 
 PSAA - Practical SOC Analyst Associate
@@ -74,7 +76,7 @@ CCSS - Certified Cyber Security Specialist
 
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 <br>
 
