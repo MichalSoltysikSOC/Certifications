@@ -34,6 +34,8 @@ C)DFE - Certified Digital Forensics Examiner
 
 eCDFP - eLearnSecurity Certified Digital Forensics Professional
 
+CDFEH - CYBER 5W Digital Forensics Evidence Handler
+
 ISO/IEC 27037:2012 - Lead Implementer
 
 WCNA - Wireshark Certified Network Analyst
@@ -76,7 +78,7 @@ CCSS - Certified Cyber Security Specialist
 
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 <br>
 
