@@ -14,7 +14,7 @@ Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer a
 
 CM)CTA - Certified Master Cyber Threat Analyst
 
-CySA+, C)CSA & C3SA - Certified Cyber Security Analyst
+CySA+, C)CSA & C3SA - Certified Cybersecurity Analyst
 
 CCDA - Certified Cyber Defense Analyst
 
@@ -25,6 +25,8 @@ C|SA - Certified SOC Analyst
 PSAA - Practical SOC Analyst Associate
 
 CM)CFI - Certified Master Cyber Forensic Investigator
+
+GCFA - GIAC Certified Forensic Analyst
 
 GNFA - GIAC Network Forensic Analyst
 
@@ -82,21 +84,21 @@ Issued by GIAC (associated with SANS Institute), Mile2, EC-Council, CompTIA, HTB
 
 <br>
 
-Accredited by ANAB under ISO/IEC 17024.
+Accredited by ANAB (ANSI National Accreditation Board - the largest multi-disciplinary accreditation body in North America and a wholly owned subsidiary of ANSI, the American National Standards Institute), in accordance with ISO/IEC 17024.
 
-Accredited by the NSA CNSS 4011-4016.
+Accredited by the National Security Agency (NSA) and the Committee on National Security Systems (CNSS) under the CNSS 4011-4016 training standards.
 
-Accredited by ABIS under ISO/IEC 17011.
+Accredited by ABIS (Accreditation Board for International Standards) in compliance with ISO/IEC 17011.
 
-Approved by DoD under Directive 8570 (previously) / 8140 (presently).
+Approved by the U.S. Department of Defense (DoD) under Directive 8570 (superseded) and currently under Directive 8140.
 
-Mapped to NIST / Homeland Security NICCS's Cyber Security Workforce Framework.
+Mapped to the National Institute of Standards and Technology (NIST) and the U.S. Department of Homeland Security's (DHS) National Initiative for Cybersecurity Careers and Studies (NICCS) Cybersecurity Workforce Framework.
 
-Mapped to NCWF (NICE Cybersecurity Workforce Framework).
+Mapped to the NICE Cybersecurity Workforce Framework (NCWF).
 
-Approved on the FBI Cyber Security Certification Requirement list (Tier 1-3).
+Approved on the Federal Bureau of Investigation (FBI) Cybersecurity Certification Requirements list (Tiers 1–3).
 
-Recognized by NCSC - part of GCHQ (UK's intelligence, security, and cyber agency).
+Recognized by the National Cyber Security Centre (NCSC), part of GCHQ (Government Communications Headquarters - the UK's intelligence, security, and cyber agency).
 
 <br>
 
