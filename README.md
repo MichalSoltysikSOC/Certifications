@@ -98,6 +98,8 @@ Mapped to the National Institute of Standards and Technology (NIST) and the U.S.
 
 Mapped to the NICE Cybersecurity Workforce Framework (NCWF).
 
+Integrated into the U.S. Department of Defense (DoD) Cyber Mission Force Persistent Cyber Training Environment (PCTE).
+
 Approved on the Federal Bureau of Investigation (FBI) Cybersecurity Certification Requirements list (Tiers 1–3).
 
 Recognized by the National Cyber Security Centre (NCSC), part of GCHQ (Government Communications Headquarters - the UK's intelligence, security, and cyber agency).
