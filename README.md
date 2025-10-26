@@ -64,6 +64,8 @@ CM)IPS - Certified Master Intrusion Prevention Specialist
 
 eCTHP - eLearnSecurity Certified Threat Hunting Professional
 
+CRTA - Certified Red Team Analyst
+
 C)TIA - Certified Threat Intelligence Analyst
 
 CIoTSP - Certified Internet of Things Security Practitioner
