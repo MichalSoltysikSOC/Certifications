@@ -42,6 +42,8 @@ ISO/IEC 27037:2012 - Lead Implementer
 
 WCNA - Wireshark Certified Network Analyst
 
+GCED - GIAC Certified Enterprise Defender
+
 C|ND - Certified Network Defender
 
 CCD - Certified CyberDefender
