@@ -52,6 +52,8 @@ C)ISSO - Certified Information Systems Security Officer
 
 CPTA - Certified Purple Team Analyst
 
+HTB CPTS - Hack The Box Certified Penetration Testing Specialist
+
 C)PTC - Certified Penetration Testing Consultant
 
 C)PTE - Certified Penetration Testing Engineer
