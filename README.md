@@ -24,6 +24,8 @@ C|SA - Certified SOC Analyst
 
 PSAA - Practical SOC Analyst Associate
 
+CBTeamer - Certified Blue Teamer
+
 CBTP - Certified Blue Team Practitioner
 
 CM)CFI - Certified Master Cyber Forensic Investigator
