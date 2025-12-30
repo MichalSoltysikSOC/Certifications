@@ -110,6 +110,8 @@ Mapped to the NICE Cybersecurity Workforce Framework (NCWF).
 
 Integrated into the U.S. Department of Defense (DoD) Cyber Mission Force Persistent Cyber Training Environment (PCTE).
 
+Recognized within the Federal Risk and Authorization Management Program (FedRAMP) 3PAO personnel qualification requirements (RFC-0002, Sections 6.1.1 F.2 and 6.1.1 F.3), aligned with the U.S. Department of Defense (DoD) 8140 Cyber Workforce Qualification Program.
+
 Approved on the Federal Bureau of Investigation (FBI) Cybersecurity Certification Requirements list (Tiers 1–3).
 
 Recognized by the National Cyber Security Centre (NCSC), part of GCHQ (Government Communications Headquarters - the UK's intelligence, security, and cyber agency).
