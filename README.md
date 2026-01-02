@@ -2,13 +2,9 @@
 
 Michał Sołtysik
 
-Cybersecurity Analyst & Consultant
+Cybersecurity Consultant and Blue Team, Purple Team, and Red Team Analyst, bringing a broad and in-depth range of expertise to his cybersecurity practice.
 
-Specializing in deep packet inspection (i.e. network edge profiling and 0-day attacks).
-
-To date, he has identified 254 protocols in the IT, OT and IoT areas used for cyber attacks.
-
-Additionally, a Digital and Network Forensics Examiner, CyberWarfare Organizer and SOC Trainer.
+He is also a Digital and Network Forensics Examiner, Cyber Warfare Organizer, and SOC Trainer, specializing in SOC operational capability and maturity development, network edge traffic profiling, and adversary emulation in EDR testing.
 
 <br>
 
