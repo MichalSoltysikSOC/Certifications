@@ -26,6 +26,8 @@ CBTP - Certified Blue Team Practitioner
 
 CM)CFI - Certified Master Cyber Forensic Investigator
 
+GCFE - GIAC Certified Forensic Examiner
+
 GCFA - GIAC Certified Forensic Analyst
 
 GNFA - GIAC Network Forensic Analyst
