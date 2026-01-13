@@ -32,6 +32,8 @@ GCFA - GIAC Certified Forensic Analyst
 
 GNFA - GIAC Network Forensic Analyst
 
+CCDFA - Cyber 5W Certified Digital Forensic Analyst
+
 C)NFE - Certified Network Forensics Examiner
 
 C)DFE - Certified Digital Forensics Examiner
