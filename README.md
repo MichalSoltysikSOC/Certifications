@@ -72,6 +72,8 @@ CM)IPS - Certified Master Intrusion Prevention Specialist
 
 eCTHP - eLearnSecurity Certified Threat Hunting Professional
 
+CRTS - Certified Red Team Specialist
+
 CRTA - Certified Red Team Analyst
 
 C)TIA - Certified Threat Intelligence Analyst
