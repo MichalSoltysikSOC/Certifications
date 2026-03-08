@@ -20,6 +20,8 @@ C|SA - Certified SOC Analyst
 
 PSAA - Practical SOC Analyst Associate
 
+CBTeamerX - Certified Blue Teamer - eXpert
+
 CBTeamer - Certified Blue Teamer
 
 CBTP - Certified Blue Team Practitioner
