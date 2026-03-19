@@ -78,6 +78,8 @@ CRTS - Certified Red Team Specialist
 
 CRTA - Certified Red Team Analyst
 
+CCMA - CYBER 5W Certified Malware Analyst
+
 C)TIA - Certified Threat Intelligence Analyst
 
 CIoTSP - Certified Internet of Things Security Practitioner
