@@ -94,6 +94,8 @@ CCC - Certified Cybersecurity Consultant
 
 CCE - Certified Cybersecurity Expert
 
+CCSE - Certified Cyber Security Engineer
+
 CCSS - Certified Cyber Security Specialist
 
 <br>
