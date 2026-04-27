@@ -20,6 +20,8 @@ C|SA - Certified SOC Analyst
 
 PSAA - Practical SOC Analyst Associate
 
+CSOA - Certified Security Operations Analyst
+
 CBTeamerX - Certified Blue Teamer - eXpert
 
 CBTeamer - Certified Blue Teamer
@@ -100,7 +102,7 @@ CCSS - Certified Cyber Security Specialist
 
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 <br>
 
