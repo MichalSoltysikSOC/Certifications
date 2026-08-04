@@ -18,6 +18,8 @@ HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
 C|SA - Certified SOC Analyst
 
+PSAP - Practical SOC Analyst Professional
+
 PSAA - Practical SOC Analyst Associate
 
 CSOA - Certified Security Operations Analyst
