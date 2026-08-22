@@ -16,7 +16,7 @@ CCDA - Certified Cyber Defense Analyst
 
 HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
-C|SA - Certified SOC Analyst
+C|SA & CCSA - Certified SOC Analyst
 
 PSAP - Practical SOC Analyst Professional
 
