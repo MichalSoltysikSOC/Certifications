@@ -138,6 +138,10 @@ Official website: https://michalsoltysik.com/
 
 Mail: me@michalsoltysik.com
 
+michalsoltysik.com - Official Brand Film: https://www.youtube.com/watch?v=fy-MSHYUMgE
+
+michalsoltysik.com - Official Brand Film (Short Version): https://www.youtube.com/watch?v=rEMHqwvlXBc
+
 LinkedIn: https://www.linkedin.com/in/michal-soltysik-ssh-soc/
 
 Cybersecurity content: https://www.youtube.com/playlist?list=PL0RdRWQWldOAAKBqOVEutxKMP-a6CNoLY
