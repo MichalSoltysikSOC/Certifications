@@ -82,6 +82,8 @@ CRTS - Certified Red Team Specialist
 
 CRTA - Certified Red Team Analyst
 
+CRTO - Certified Red Team Operator
+
 CRTeamer - Certified Red Teamer
 
 CCMA - CYBER 5W Certified Malware Analyst
@@ -106,7 +108,7 @@ CCSS - Certified Cyber Security Specialist
 
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
 
 <br>
 
