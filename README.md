@@ -12,7 +12,7 @@ CM)CTA - Certified Master Cyber Threat Analyst
 
 CySA+, C)CSA & C3SA - Certified Cybersecurity Analyst
 
-CCDA - Certified Cyber Defense Analyst
+CCDA & CDA - Certified Cyber Defense Analyst
 
 HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
@@ -90,6 +90,8 @@ CRTeamer - Certified Red Teamer
 
 CCMA - CYBER 5W Certified Malware Analyst
 
+CRPO - Certified Ransomware Protection Officer
+
 C)TIA - Certified Threat Intelligence Analyst
 
 CIoTSP - Certified Internet of Things Security Practitioner
@@ -108,9 +110,15 @@ CCSE - Certified Cyber Security Engineer
 
 CCSS - Certified Cyber Security Specialist
 
+CDR - Cyber Defense Responder
+
+CDT - Cyber Defense Technician
+
+CSEDP - Certified Social Engineering Defense Practitioner
+
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council and Global Tech Council.
+Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, Level Effect, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council, Global Tech Council and EU Cyber Academy.
 
 <br>
 
