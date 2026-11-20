@@ -16,7 +16,7 @@ CCDA & CDA - Certified Cyber Defense Analyst
 
 HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
-C|SA & CCSA - Certified SOC Analyst
+C|SA, CCSA & CSA - Certified SOC Analyst
 
 PSAP - Practical SOC Analyst Professional
 
@@ -92,11 +92,15 @@ CCMA - CYBER 5W Certified Malware Analyst
 
 CRPO - Certified Ransomware Protection Officer
 
+CPDS - Certified Phishing Defense Specialist
+
 C)TIA - Certified Threat Intelligence Analyst
 
 CIoTSP - Certified Internet of Things Security Practitioner
 
 OOSE - OPSWAT OT Security Expert
+
+CDSP - Certified Defensive Security Practitioner
 
 CNSP - Certified Network Security Practitioner
 
@@ -118,7 +122,7 @@ CSEDP - Certified Social Engineering Defense Practitioner
 
 <br>
 
-Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, Level Effect, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, Pacific Certifications, Blockchain Council, Global Tech Council and EU Cyber Academy.
+Issued by GIAC (associated with SANS Institute), Mile2 Cybersecurity Institute, EC-Council, CompTIA, HTB Academy, INE Security, TCM Security, CyberWarFare Labs, CyberDefenders, Cyber5W, The SecOps Group, CertNexus, Hackviser, Zero-Point Security, Level Effect, CYBRIXEN, OPSWAT Academy, Protocol Analysis Institute (WCNA Certification Program), United States Cybersecurity Institute, The Cyber Ledger, Pacific Certifications, Blockchain Council, Global Tech Council and EU Cyber Academy.
 
 <br>
 
