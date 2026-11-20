@@ -78,6 +78,8 @@ RvBCWP - Red vs Blue Cyber Warfare Practitioner
 
 CM)IPS - Certified Master Intrusion Prevention Specialist
 
+CETH - Certified Enterprise Threat Hunter
+
 eCTHP - eLearnSecurity Certified Threat Hunting Professional
 
 CRTS - Certified Red Team Specialist
