@@ -14,9 +14,9 @@ CySA+, C)CSA & C3SA - Certified Cybersecurity Analyst
 
 CCDA & CDA - Certified Cyber Defense Analyst
 
-HTB CDSA - Hack The Box Certified Defensive Security Analyst
-
 CDCA - Cyber Defense Certified Analyst
+
+HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
 C|SA, CCSA & CSA - Certified SOC Analyst
 
