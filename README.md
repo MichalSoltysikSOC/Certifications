@@ -16,6 +16,8 @@ CCDA & CDA - Certified Cyber Defense Analyst
 
 HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
+CDCA - Cyber Defense Certified Analyst
+
 C|SA, CCSA & CSA - Certified SOC Analyst
 
 PSAP - Practical SOC Analyst Professional
@@ -81,6 +83,8 @@ CM)IPS - Certified Master Intrusion Prevention Specialist
 CETH - Certified Enterprise Threat Hunter
 
 eCTHP - eLearnSecurity Certified Threat Hunting Professional
+
+CDETH - Certified Detection Engineer & Threat Hunter
 
 CRTS - Certified Red Team Specialist
 
