@@ -12,9 +12,7 @@ CM)CTA - Certified Master Cyber Threat Analyst
 
 CySA+, C)CSA & C3SA - Certified Cybersecurity Analyst
 
-CCDA & CDA - Certified Cyber Defense Analyst
-
-CDCA - Cyber Defense Certified Analyst
+CCDA, CDCA & CDA - Certified Cyber Defense Analyst
 
 HTB CDSA - Hack The Box Certified Defensive Security Analyst
 
